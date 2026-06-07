@@ -1,0 +1,42 @@
+[
+  {
+    "word": "apple",
+    "categories": ["fruit", "food", "red"]
+  },
+  {
+    "word": "car",
+    "categories": ["vehicle", "transport", "machine"]
+  },
+  {
+    "word": "dog",
+    "categories": ["animal", "pet", "mammal"]
+  },
+  {
+    "word": "book",
+    "categories": ["object", "education", "reading"]
+  },
+  {
+    "word": "sun",
+    "categories": ["nature", "star", "light"]
+  },
+  {
+    "word": "computer",
+    "categories": ["technology", "machine", "electronic"]
+  },
+  {
+    "word": "water",
+    "categories": ["liquid", "nature", "life"]
+  },
+  {
+    "word": "school",
+    "categories": ["building", "education", "place"]
+  },
+  {
+    "word": "guitar",
+    "categories": ["instrument", "music", "object"]
+  },
+  {
+    "word": "mountain",
+    "categories": ["nature", "geography", "high"]
+  }
+]
