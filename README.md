@@ -5,11 +5,19 @@ Welcome to my personal playground of fun, creative, and practical Python scripts
 ---
 
 ## 🛠️ What's Inside?
-Here is a list of small but cool tools and scripts included in this repository:
-dataset_builder:**[this has 2 file and one of them build a fully dataset for ML (it data has +,-,/,*) you can say how many data you want and next it has a taster for check is all of its data unique 
-guess_number_word_game:**[this project has to game first guess number game (comuter select random number and you have to find it with pc's hint) and guess word game its like guess number but computer select random word from its data base
-password_builder:**[it build a very strong password with to way fist way is passphase way and another way is generate_random_password 
-snake_game:**[its snake game with pgame
+
+Here is a list of the cool tools and games included in this repository:
+
+### 📊 Data & Utilities
+* **📂 Dataset Builder:** A 2-file system designed to generate fully customized datasets for Machine Learning (supporting `+`, `-`, `/`, `*` operations). You can specify the exact number of rows, and it includes a built-in tester utilizing a unique-value tracking algorithm to ensure zero data duplication.
+* **🔑 Password Builder:** A secure password generation tool that offers two robust methods: generating a traditional strong random password, or creating an easy-to-remember but highly secure **Passphrase**.
+
+### 🎮 Games
+* **🐍 Snake Game:** The classic arcade Snake game built from scratch using the **Pygame** library.
+* **🧠 Guessing Games Hub:** Features two distinct text-based games:
+  * *Guess the Number:* The computer picks a random number and gives you dynamic hints to guide you.
+  * *Guess the Word:* A word-puzzle game where you try to guess a random word selected from a built-in database.
+
 *(Note: I will keep adding more interesting scripts here as I learn new concepts!)*
 
 ---
